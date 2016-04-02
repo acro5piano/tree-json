@@ -1,11 +1,8 @@
 # tree-json
-Print directory tree as JSON
+Print directory tree as JSON for https://github.com/jonmiles/bootstrap-treeview
 
 # Installation
-
-```sh
-sudo apt-get install python
-```
+`sudo apt-get install python`
 
 # Try
-just `python tree-json.py`
+python tree-json.py`
