@@ -8,4 +8,4 @@ sudo apt-get install python
 ```
 
 # Try
-just `python print.py`
+just `python tree-json.py`
